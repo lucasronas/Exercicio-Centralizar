@@ -1,0 +1,66 @@
+body{
+    font-family: Helvetica;
+    background-color: #E6D5B8;
+}
+
+.nome{   
+    margin-left: 7em;
+    text-align: center; 
+    color: #E45826;
+    width: 30em;
+}
+
+.objetivo, .exp, .forma, .cursos{
+    text-align: center; 
+    margin-left: 7em;    
+    color: #E45826; 
+}
+
+.objetivo{
+    width: 4.1em;
+}
+
+.exp{
+    width: 12em;
+}
+
+.forma{
+    width: 5em;
+}
+
+.cursos{
+    width: 12.2em;
+}
+
+.subtitulo{
+    font-size: 18px;
+    text-decoration: underline;
+    margin-left: 13em; 
+}
+
+.uel:link{
+    color: #F05454;
+}
+
+.uel:visited{
+    color: #F0A500;
+}
+
+.uel:hover{
+    background-color: rgb(180, 177, 177);
+}
+
+h1, h2{
+    background-color: #ebd1a69f;
+    border: dashed black;
+    text-decoration: underline;
+}
+
+p, h3{
+    font-size: 16px;
+    margin-left: 15em;    
+}
+
+ul li{
+    margin-left: 13em;
+}
